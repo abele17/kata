@@ -1,0 +1,3 @@
+def oddball x
+  x.include?(x.index('odd'))
+end
